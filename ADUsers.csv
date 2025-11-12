@@ -1,0 +1,4 @@
+﻿"GivenName","Surname","SamAccountName","WhenCreated","PSComputerName","RunspaceId","PSShowComputerName"
+"Anna","Hansen","ahansen","11-11-2025 11:31:30","10.101.190.204","5f8d389d-9a89-4d5f-bc07-359fca077d6a","True"
+"Carl","Jensen","cjensen","11-11-2025 11:32:43","10.101.190.204","5f8d389d-9a89-4d5f-bc07-359fca077d6a","True"
+"Bo","Nielsen","bnielsen","11-11-2025 11:32:00","10.101.190.204","5f8d389d-9a89-4d5f-bc07-359fca077d6a","True"

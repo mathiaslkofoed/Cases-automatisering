@@ -1,0 +1,5 @@
+"Server","Name","FreeGB","PSComputerName","RunspaceId","PSShowComputerName"
+"WINSERVERMAT1","C","75,36","10.101.190.204","7a3c37ef-678e-4e17-8ee9-4cd9bb0dfa7c","True"
+"WINSERVERMAT1","D","0","10.101.190.204","7a3c37ef-678e-4e17-8ee9-4cd9bb0dfa7c","True"
+"WINSERVERMAT2","C","78,99","10.101.3.197","1f70fdf9-62d7-4d8d-adf1-e1d54c38f038","True"
+"WINSERVERMAT2","D","0","10.101.3.197","1f70fdf9-62d7-4d8d-adf1-e1d54c38f038","True"
