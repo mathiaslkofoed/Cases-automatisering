@@ -1,3 +1,4 @@
+# Case 3
 $Server     = "10.101.190.204"
 $Cred       = Get-Credential "Administrator"
 $SearchBase = "OU=TestUsers,DC=Mathias,DC=local"

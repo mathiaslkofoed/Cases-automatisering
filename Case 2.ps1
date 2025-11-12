@@ -1,3 +1,4 @@
+# Case 2
 # Klient: 10.101.184.14
 # Server: 10.101.190.204
 # Stopper Spooler-service på serveren

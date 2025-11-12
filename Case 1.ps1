@@ -1,5 +1,4 @@
-# Case 1 – Diskpladsrapport
-
+# Case 1
 $Servers = "10.101.190.204","10.101.3.197"
 $Cred = Get-Credential "Administrator"
 
