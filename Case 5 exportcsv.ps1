@@ -1,6 +1,6 @@
 $Server  = "10.101.190.204"
 $Cred    = Get-Credential "Administrator"
-$CSVPath = "C:\NewUsers.csv"
+$CSVPath = "C:\Users\Mathias\Powershell\Case opgaver\Cases\NewUsers.csv"
 $Report  = "C:\UserImport_Report.csv"
 
 $Users   = Import-Csv $CSVPath
